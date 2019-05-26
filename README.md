@@ -1,2 +1,2 @@
 ## ANNs
-ML projects in development(jupyter notebooks)
+ML projects in development (jupyter notebooks)
